@@ -19,18 +19,18 @@ ChitChat is a modern real-time chat application designed to deliver seamless com
 
 **Database**: MongoDB# ChitChat
 
-![0](https://github.com/user-attachments/assets/28c6fb59-8c0e-477a-9c9b-3fe5d1c5a940)
-![1](https://github.com/user-attachments/assets/f008b693-b91d-4710-a32e-9f8a0dcf2235)
-![2](https://github.com/user-attachments/assets/73e230eb-5259-4596-afb8-89e5022be3f9)
-![3](https://github.com/user-attachments/assets/60b22bb5-826a-4507-bd16-e80b28542b34)
-![4](https://github.com/user-attachments/assets/740e53d7-dc31-4bc3-b8a4-82996811ef59)
-![5](https://github.com/user-attachments/assets/2f28607b-31da-48b1-99bf-13012ee36c55)
-![6](https://github.com/user-attachments/assets/6ad578e8-a316-47f4-8a8c-1bf7acd52ace)
-![7](https://github.com/user-attachments/assets/62a638d4-aaea-4938-b710-e74737c699c7)
-![8](https://github.com/user-attachments/assets/13e07b50-f04b-45f6-833a-868232a17436)
-![9](https://github.com/user-attachments/assets/8086ec27-e674-44c9-98a0-cdb28af04441)
-![10](https://github.com/user-attachments/assets/81dd23ee-bcb5-4d10-8f1d-3f940bf6bee9)
-![11](https://github.com/user-attachments/assets/eb852e79-6e0a-4fe8-a7b4-ad6446730742)
+![9](https://github.com/user-attachments/assets/dcc447f9-b277-48da-b978-fac5a603fa48)
+![10](https://github.com/user-attachments/assets/58c6fea6-641a-4cc1-bb40-c14d872a0d44)
+![11](https://github.com/user-attachments/assets/5700fdac-3425-4ae2-aac4-ec0fec210914)
+![0](https://github.com/user-attachments/assets/bc92a748-6910-494d-a9d7-ae20756ab5f5)
+![1](https://github.com/user-attachments/assets/8e4d719a-d91e-4c65-b479-6f119cc2bd0a)
+![2](https://github.com/user-attachments/assets/de7ca200-c518-4d49-a970-dcc75ab1b608)
+![3](https://github.com/user-attachments/assets/6dd70fa1-a9ce-4511-b3f4-c985029aacaa)
+![4](https://github.com/user-attachments/assets/8dcdcb49-a661-4907-b730-562a57f1fa94)
+![5](https://github.com/user-attachments/assets/f12e5fea-f613-4702-be61-02639144ee6c)
+![6](https://github.com/user-attachments/assets/7560f208-3ef6-4907-a9e9-446b1734b74f)
+![7](https://github.com/user-attachments/assets/8a5a641f-1ce2-4681-bd11-a9306d5a234f)
+![8](https://github.com/user-attachments/assets/ad6546fd-5599-467b-b79c-569f38d8b8a1)
 
 
 **Install it to your system**
